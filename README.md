@@ -2,6 +2,6 @@
 
 This is a demo of Git and Github
 
--Banana
--Papaya
--Mango
+- Banana
+- Papaya
+- Mango
